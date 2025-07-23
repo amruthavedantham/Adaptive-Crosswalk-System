@@ -23,7 +23,13 @@
 * RGB + Thermal Camera Modules
 
 ---
+## 🔗 Pre-trained Weights
 
+You can download the YOLOv3 weights from this official link:
+
+[Download yolov3.weights](https://pjreddie.com/darknet/yolo/)
+
+---
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
